@@ -1,0 +1,15 @@
+settings:
+  prefix: "&e&lPLOTS &8» "
+  sign-type: "OAK_SIGN"
+
+# تخصيص اللوحة بالكامل
+sign-layout:
+  line-1: "&l[Plot]"
+  line-2: "&6%id%"
+  line-3: "&aAVAILABLE"
+  line-4: "&7Click to rent"
+
+messages:
+  no-permission: "&cNo permission!"
+  created: "&fPlot &6%id% &fhas been created!"
+  rented: "&aSuccess! You rented &f%id%."
