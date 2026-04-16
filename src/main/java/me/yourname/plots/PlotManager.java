@@ -1,4 +1,4 @@
-package me.yourname.plots;
+package me.morad49.plots;
 
 import java.util.concurrent.ConcurrentHashMap;
 
